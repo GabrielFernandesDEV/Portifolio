@@ -1,5 +1,5 @@
 :root {
-  --background-color: #071425; /*fundo da descriçao*/  
+  --background-color: #0f0c29; /*fundo da descriçao*/  
   --color-lightWhite: #f6f5f5;/*aprecentacao e contorno*/
   --color-black: #191622;
   --color-lightBlack: #4d4d4d;
@@ -16,7 +16,7 @@
   --color-Lilas: #D480FE; /*start*/
   --color-lightMagenta: #ff92d0;
   --color-blue: #3ebbd1;
-  --color-Projeto1: #ffffff;
+  --color-Projeto1: #fffafa;
   --color-projeto2:#ffcb05;
 
 }
@@ -64,10 +64,6 @@ body::-webkit-scrollbar-thumb:hover {
   width: 100%;
   height: 100%;
   z-index: -1;
- /* background-color: #070d59 */
-  
-  
-  
 
 }
 

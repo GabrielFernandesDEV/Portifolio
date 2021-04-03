@@ -25,7 +25,7 @@
   transition: all 0.3s;
 }
 
-.rivaldo {
+.Gabriel {
   border-radius: 40px;
   background-color: var(--background-color);
   box-shadow: var(--color-black) 0px 3px 8px;
@@ -35,7 +35,7 @@
   justify-content: space-around;
 }
 
-.rivaldo span {
+.Gabriel span {
   font-size: 1.4rem;
   font-weight: 500;
   padding: 5px 0px 5px 0px;
@@ -48,7 +48,7 @@
 .chave-1 {
   color: var(--color-orange);
 }
-.rivaldo .line {
+.Gabriel .line {
   padding-left: 30px;
 }
 
@@ -96,13 +96,13 @@
 }
 
 @media screen and (max-width: 820px) {
-  .rivaldo span {
+  .Gabriel span {
     font-size: 1.2rem;
   }
 }
 
 @media screen and (max-width: 720px) {
-  .rivaldo span {
+  .Gabriel span {
     font-size: 1rem;
   }
 
@@ -113,7 +113,7 @@
 }
 
 @media screen and (max-width: 620px) {
-  .rivaldo span {
+  .Gabriel span {
     font-size: 0.9rem;
   }
 
@@ -124,7 +124,7 @@
 }
 
 @media screen and (max-width: 420px) {
-  .rivaldo span {
+  .Gabriel span {
     font-size: 0.8rem;
   }
 
@@ -135,7 +135,7 @@
 }
 
 @media screen and (max-width: 360px) {
-  .rivaldo span {
+  .Gabriel span {
     font-size: 0.7rem;
   }
 
