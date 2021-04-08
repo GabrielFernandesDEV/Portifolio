@@ -128,15 +128,15 @@
   cursor: pointer;
 }
 
-.projeto1 .container {
+/*.projeto1 .container {
   background: var( --color-Projeto1);
   box-shadow: 0 0 40px var( --color-Projeto1 );
-}
+}*/
 
-.projeto2 .container {
+/*.projeto2 .container {
   background: var(--color-projeto2);
   box-shadow: 0 0 40px var(--color-projeto2);
-}
+}*/
 
 .gitdex .container {
   background: #183268;
